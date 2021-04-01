@@ -12,5 +12,5 @@ I'm learning a ton about [dotfiles, command line use, Homebrew, zsh, git, macOS 
 - Trackpad (Three Finger Drag and Tap to Click)
 - .zshrc
 - Git (config and SSH)
-- Share this repo with eleventy billion people
+- Share this repo with all the people
 - Homebrew Install2
