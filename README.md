@@ -13,4 +13,4 @@ I'm learning a ton about [dotfiles, command line use, Homebrew, zsh, git, macOS 
 - .zshrc
 - Git (config and SSH)
 - Share this repo with all the people
-- Homebrew Install2
+- Homebrew Install3
